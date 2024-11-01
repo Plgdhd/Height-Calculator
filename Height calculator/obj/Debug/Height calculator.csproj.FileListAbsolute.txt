@@ -1,0 +1,15 @@
+H:\Программы на С#\Height calculator\bin\Debug\Height calculator.exe.config
+H:\Программы на С#\Height calculator\bin\Debug\Height calculator.exe
+H:\Программы на С#\Height calculator\bin\Debug\Height calculator.pdb
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.csproj.AssemblyReference.cache
+H:\Программы на С#\Height calculator\obj\Debug\MainWindow.g.cs
+H:\Программы на С#\Height calculator\obj\Debug\App.g.cs
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator_MarkupCompile.cache
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator_MarkupCompile.lref
+H:\Программы на С#\Height calculator\obj\Debug\MainWindow.baml
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.g.resources
+H:\Программы на С#\Height calculator\obj\Debug\Height_calculator.Properties.Resources.resources
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.csproj.GenerateResource.cache
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.csproj.CoreCompileInputs.cache
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.exe
+H:\Программы на С#\Height calculator\obj\Debug\Height calculator.pdb
